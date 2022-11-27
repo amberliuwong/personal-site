@@ -16,7 +16,7 @@
 title: Amber's Website
 email: amberliuwong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Conservation, outdoors, sewing, photos 
+  Conservation, outdoors, sewing, and photos 
 instagram_username: amberliuwong
 minimal_mistakes_skin: default
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Amber Wong"
   avatar : "/assets/images/bio-ada.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Conservation, outdoors, sewing, and photos."
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
