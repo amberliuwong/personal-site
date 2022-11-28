@@ -3,7 +3,7 @@ title: "Cultural Dance Performance"
 date: 2015-07-12
 categories:
   - Peace Corps Philippines
-  - Training
+  - Peace Corps Training
 tags:
   - Peace Corps Philippines
 ---

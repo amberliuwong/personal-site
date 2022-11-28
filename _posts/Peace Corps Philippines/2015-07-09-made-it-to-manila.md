@@ -3,7 +3,7 @@ title: "We Made it to Manila"
 date: 2015-07-09
 categories:
   - Peace Corps Philippines
-  - Training
+  - Peace Corps Training
 tags:
   - Peace Corps Philippines
 ---

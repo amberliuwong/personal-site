@@ -3,9 +3,9 @@ title: "Official Pre-Departure Prep has Begun"
 date: 2015-01-13
 categories:
   - Peace Corps Philippines
+  - Peace Corps Pre Departure
 tags:
   - Peace Corps Philippines
-  - Pre Departure
 ---
 
 Just under 6 months until I leave for the Philippines!
